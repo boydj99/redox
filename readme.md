@@ -22,3 +22,5 @@ This is a build of the open source redox split keyboard. I struggle with shoulde
     https://www.amazon.ca/gp/product/B01M9FCZQJ/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1
 - Xda keycap set $45
     https://www.amazon.ca/FUMOOD-Minimalist-Keyboard-Sublimation-Mechanical/dp/B0BZD4D7KX/ref=sr_1_7?crid=EW56DLZRIG4H&keywords=xda+white+keycaps&qid=1686342170&sprefix=xdawhite+keycaps%2Caps%2C75&sr=8-7
+
+I also modified the default case files to better fit the usb-c promicro instead of the typical micro-usb ones.
